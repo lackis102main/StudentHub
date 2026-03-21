@@ -67,7 +67,7 @@ def complete_task():
 
 def main():
     while True:
-        print("\n=== StudyOS v1 ===")
+        print("\n=== StudyHub v1 ===")
         print("1. Add task")
         print("2. View tasks")
         print("3. Complete task")
