@@ -1,4 +1,4 @@
-# StudyHub v0.1
+# StudyHub v0.1-alpha
 
 A simple student task manager to track homework, deadlines, and completed tasks.
 
