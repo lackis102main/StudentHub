@@ -1,12 +1,13 @@
 # StudyHub v0.1
 
-A simple homework planner built in Python.
+A simple student task manager to track homework, deadlines, and completed tasks.
 
 ## Features
 - Add tasks
-- Set deadlines
+- View tasks
 - Mark tasks as completed
+- Deadlines supported
 
-## Run
+## How to run
 ```bash
 python main.py
