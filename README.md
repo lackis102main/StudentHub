@@ -1,14 +1,14 @@
-# **StudentHub v0.2-alpha**
+# **StudentHub v0.3-beta**
 
-_Second alpha release of StudentHub, a simple terminal-based student planner. This is an alpha release. Expect bugs and missing features._
+_First beta release of StudentHub, now with a full GUI, notifications and much more. Except bugs and missing features._
 _Run this in its own folder. A file called `tasks.json` will be created to store your data. Do not delete it unless you want to reset your tasks._
-_Next version will include a GUI and possibly notifications._
 
-## What's new in v0.2-alpha
+## What's new in v0.3-alpha
 
-- Added task types (homework, exam, project)
-- Added automatic sorting by deadline
-- Added filtering by task type
+- From terminal to clean, modern GUI
+- .exe is an application now
+- Notifications
+- Three layers of warnings
 
 ## **Features**
 
@@ -18,12 +18,18 @@ _Next version will include a GUI and possibly notifications._
 - Deadlines supported
 - Task types (homework, exam, project)
 - Automatic sorting by deadline
+- Clean GUI
+- Notifications to warn you about dates
 
 ## **Roadmap**
 
-- Clean GUI
 - Calendar view
-- Notifications
+- Multi-platform support (macOS and Linux)
+- Dark/light theme toggle
+- Data backups (.json backups)
+- Priorities and subjects
+- Progress system
+- Streaks
 
 ## **Screenshots**
 _Screenshots taken on Windows Terminal._

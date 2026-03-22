@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "title": "English Exam Unit 6",
+        "type": "exam",
+        "deadline": "2026-04-05",
+        "done": false
+    },
+    {
+        "title": "E.F. Dancing Project",
+        "type": "project",
+        "deadline": "2026-03-23",
+        "done": true
+    },
+    {
+        "title": "Biology Unit 5 Exam",
+        "type": "exam",
+        "deadline": "2026-03-25",
+        "done": false
+    }
+]
