@@ -1,7 +1,6 @@
-# **StudentHub v0.3-beta**
+# **StudentHub**
 
-_First beta release of StudentHub, now with a full GUI, notifications and much more. Except bugs and missing features._
-_Run this in its own folder. A file called `tasks.json` will be created to store your data. Do not delete it unless you want to reset your tasks._
+Your very own academic dashboard.
 
 ## What's new in v0.3-alpha
 
@@ -30,18 +29,19 @@ _Run this in its own folder. A file called `tasks.json` will be created to store
 - Priorities and subjects
 - Progress system
 - Streaks
+- Various languages (Spanish, French...)
 
 ## **Screenshots**
 _Screenshots taken on Windows Terminal._
 
-<img width="322" height="254" alt="image" src="https://github.com/user-attachments/assets/0b070d2a-63b8-4120-b3bb-feb3f2605b78" />
+<img width="1585" height="533" alt="image" src="https://github.com/user-attachments/assets/61d41661-da60-40ed-a3fd-f5c5bbbe9a18" />
 
-<img width="382" height="241" alt="image" src="https://github.com/user-attachments/assets/8e74fe7b-5413-4588-be0a-0f1e3e67632a" />
+<img width="1583" height="418" alt="image" src="https://github.com/user-attachments/assets/10f1ebdb-8e9f-41c5-8f4c-875ce3031fdf" />
 
 ## Platform
 
 - Windows (.exe available)
-- macOS and Linux (planned)
+- macOS and Linux (second update after v1.0)
 
 ## How to run
 
