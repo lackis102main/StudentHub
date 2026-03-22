@@ -32,7 +32,7 @@ Your very own academic dashboard.
 - Various languages (Spanish, French...)
 
 ## **Screenshots**
-_Screenshots taken on Windows Terminal._
+_Screenshots taken on the Windows app._
 
 <img width="1585" height="533" alt="image" src="https://github.com/user-attachments/assets/61d41661-da60-40ed-a3fd-f5c5bbbe9a18" />
 
