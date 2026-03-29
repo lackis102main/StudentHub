@@ -2,7 +2,7 @@
 
 Your very own academic dashboard.
 
-## What's new in v0.3-alpha
+## What's new in v0.3-beta
 
 - From terminal to clean, modern GUI
 - .exe is an application now
