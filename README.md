@@ -1,14 +1,14 @@
-# **StudentHub v0.3-beta**
+# **StudentHub v0.4-beta**
 
-_First beta release of StudentHub, now with a full GUI, notifications and much more. Except bugs and missing features._
-_Run this in its own folder. A file called `tasks.json` will be created to store your data. Do not delete it unless you want to reset your tasks._
+_A release before v0.5-beta, next update includes multi-platform release, image icons, tray icon and some more._
 
-## What's new in v0.3-alpha
+## What's new in v0.4-beta
 
-- From terminal to clean, modern GUI
-- .exe is an application now
-- Notifications
-- Three layers of warnings
+- Languages
+- Settings
+- Data backups + restore
+- Dark/light theme
+- tasks.json now lives in AppData
 
 ## **Features**
 
@@ -16,27 +16,31 @@ _Run this in its own folder. A file called `tasks.json` will be created to store
 - View tasks
 - Mark tasks as completed
 - Deadlines supported
-- Task types (homework, exam, project)
 - Automatic sorting by deadline
+- Task types (homework, exam, project)
 - Clean GUI
 - Notifications to warn you about dates
+- Data backups (.json backups)
+- Restore data
+- Type filter
 
 ## **Roadmap**
 
 - Calendar view
 - Multi-platform support (macOS and Linux)
-- Dark/light theme toggle
-- Data backups (.json backups)
 - Priorities and subjects
 - Progress system
 - Streaks
+- Tray icon (for Windows)
+- Task notes
+- Image icons
 
 ## **Screenshots**
-_Screenshots taken on Windows Terminal._
+_Screenshots taken on the app_
 
-<img width="322" height="254" alt="image" src="https://github.com/user-attachments/assets/0b070d2a-63b8-4120-b3bb-feb3f2605b78" />
+<img width="1583" height="647" alt="image" src="https://github.com/user-attachments/assets/5097d534-d820-4d1a-844b-472d5150c849" />
 
-<img width="382" height="241" alt="image" src="https://github.com/user-attachments/assets/8e74fe7b-5413-4588-be0a-0f1e3e67632a" />
+<img width="1581" height="805" alt="image" src="https://github.com/user-attachments/assets/02199939-c909-4239-ab32-c2110087b81d" />
 
 ## Platform
 
